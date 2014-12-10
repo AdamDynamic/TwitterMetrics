@@ -1,0 +1,18 @@
+2013-09-15 11:16:06,002 INFO:Process Start
+09/15/2013 11:38:00 AM INFO: TrendingTermsSentiment - Process Start
+09/15/2013 11:38:25 AM INFO: ScanTwitter - Twitter scanned for trending terms with result True
+09/15/2013 11:38:27 AM INFO: SearchTweetsForKeywords - Retrieved 913 tweets containing 13217 words with result True
+09/15/2013 11:38:27 AM INFO: CreateJsonFile - JSON file created and saved to server with result True
+09/15/2013 11:38:27 AM INFO: TrendingTermsSentiment - Process complete with status True
+09/15/2013 11:45:07 AM INFO: TrendingTermsSentiment - Process Start
+09/15/2013 11:45:08 AM INFO: CreateListOfTrendsWOEID - List Created: [u'#ReplaceVideoGameNameWithBooty', u'#Mayweather', u'#ldconf', u'#GNR', u'#GreatNorthRun', u'Danny Garcia', u'Canelo', u'Lil Wayne', u'Red Arrows', u'Mo Farah']
+09/15/2013 11:45:32 AM INFO: ScanTwitter - Twitter scanned for trending terms with result True
+09/15/2013 11:45:34 AM INFO: SearchTweetsForKeywords - Retrieved 878 tweets containing 12508 words with result True
+09/15/2013 11:45:34 AM INFO: CreateJsonFile - JSON file created and saved to server with result True
+09/15/2013 11:45:34 AM INFO: TrendingTermsSentiment - Process complete with status True
+09/22/2013 09:53:53 PM INFO: TrendingTermsSentiment - Process Start
+09/22/2013 09:53:54 PM INFO: CreateListOfTrendsWOEID - List Created: [u'#DiCanio', u'#jjujworld', u'#BigFatQuiz', u'#DowntonAbbey', u'#DappysSoldiers', u'Sarah Greene', u'Lady Mary', u'Mario Balotelli', u'Reina', u'PDC']
+09/22/2013 09:54:15 PM INFO: ScanTwitter - Twitter scanned for trending terms with result True
+09/22/2013 09:54:17 PM INFO: SearchTweetsForKeywords - Retrieved 1095 tweets containing 15606 words with result True
+09/22/2013 09:54:17 PM INFO: CreateJsonFile - JSON file created and saved to server with result True
+09/22/2013 09:54:17 PM INFO: TrendingTermsSentiment - Process complete with status True
