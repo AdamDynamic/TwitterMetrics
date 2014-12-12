@@ -1,6 +1,6 @@
 TwitterMetrics
 ==============
 
-Contains files used for the #TwitterMetrics dynamic infographics project.
+The #TwitterMetrics project seeks to make interesting infographics using data sourced from the Twitter api. 
 
-You can read more about the project at adamdynamic.com
+This repository contains the relevant files that I use, you can find more out about the project on http://adamdynamic.com/twittermetrics/.
